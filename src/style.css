@@ -6,7 +6,7 @@
   margin: 0;
 }
 body {
-  background: #f7cc00;
+  background:#ffe007;
   min-height: 100vh;
 }
 .skin {
@@ -146,7 +146,7 @@ body {
   position: absolute;
   left: 50%;
   margin-left: -50px;
-  background: #f7cc00;
+  background: #ffe007;
 }
 .mouth .up .lip.left {
   border-radius: 0 0 0 50px;
@@ -163,7 +163,7 @@ body {
   height: 30px;
   position: absolute;
   bottom: 0;
-  background: #f7cc00;
+  background: #ffe007;
 }
 .mouth .up .lip.left::after {
   right: -6px;
@@ -178,7 +178,7 @@ body {
   height: 7px;
   position: absolute;
   top: -6px;
-  background: #f7cc00;
+  background: #ffe007;
 }
 .mouth .up .lip.left::before {
   left: 0;
